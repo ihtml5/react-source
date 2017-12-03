@@ -17,3 +17,4 @@ read react source v 16.1.1
 6. [React源码解读系列 – 事件机制](http://zhenhua-lee.github.io/react/react-event.html)
 7. [React源码分析](https://zhuanlan.zhihu.com/gas-bombs)
 8. [React 源码分析v15.1](https://www.gitbook.com/book/icepy/react)
+9. [React Fiber初探](https://juejin.im/post/5a2276d5518825619a027f57)
