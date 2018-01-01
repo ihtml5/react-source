@@ -19,3 +19,4 @@ read react source v 16.1.1
 7. [React源码分析](https://zhuanlan.zhihu.com/gas-bombs)
 8. [React 源码分析v15.1](https://www.gitbook.com/book/icepy/react)
 9. [React Fiber初探](https://juejin.im/post/5a2276d5518825619a027f57)
+10. [Understanding The React Source Code - Initial Rendering (Simple Component)](http://holmeshe.me/understanding-react-js-source-code-initial-rendering-I/)
