@@ -21,3 +21,7 @@ read react source v 16.1.1
 9. [React Fiber初探](https://juejin.im/post/5a2276d5518825619a027f57)
 10. [Understanding The React Source Code - Initial Rendering (Simple Component)](http://holmeshe.me/understanding-react-js-source-code-initial-rendering-I/)
 11. [Understanding The React Source Code — Initial Rendering (Simple Component) II](https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-ii-79e7e8bed56c)
+
+### Best
+1. [从零开始实现React（二）：实现组件功能](https://github.com/hujiulong/blog/issues/4)
+2. [从零开始实现React（一）：JSX和虚拟DOM](http://cnodejs.org/topic/5ab9ab7c0b13e3ad6954ce9e#5ab9de84320bb09d69e23249)
